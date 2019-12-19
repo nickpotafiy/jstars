@@ -23,13 +23,13 @@
                 .css('-khtml-user-select', 'none')
                 .css('-webkit-user-select', 'none')
                 .css('-o-user-select', 'none');
-        }
+        };
 
         var repeat = function (str, total) {
             var final = '';
             for (var i = 0; i < total; i++) final += str;
             return final;
-        }
+        };
 
         this.each(function () {
             var $container = $(this);
@@ -70,8 +70,8 @@
             $container.append($emptyStars);
         });
         return this;
-    }
-    $(document.body).ready(function () {
+    };
+    $(function () {
         $('.jstars').jstars();
     });
 })(jQuery);

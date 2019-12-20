@@ -10,13 +10,13 @@ Add `jstars.min.js` to your project. That's it!
 
 ### Basic Usage
 
-![Basic Usage](http://i63.tinypic.com/fk4f2b.jpg "Basic Usage")
+![Basic Usage](https://www.zeppto.com/images/jstars/basic-usage.png "Basic Usage")
 
 `<div class="jstars" data-value="4.0"></div>`
 
 ### Advanced Usage
 
-![Advanced Usage](http://oi68.tinypic.com/2ldcakp.jpg "Advanced Usage")
+![Advanced Usage](https://www.zeppto.com/images/jstars/advanced-usage.png "Advanced Usage")
 
 `<div class="jstars" data-value="4.2" data-total-stars="7" data-color="#22D118" data-empty-color="black" data-size="30px"></div> `
 
